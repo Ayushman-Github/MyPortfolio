@@ -1,0 +1,749 @@
+.main-div {
+    width: 100%;
+    margin: auto;
+}
+
+/* NAVIGATION BAR LINK=============================== */
+.navbar-link {
+    color: black;
+    text-decoration: none;
+}
+
+/* FASHION EXCLUSIVE============================================= */
+
+.header-button {
+    position: absolute;
+    top: 465px;
+    left: 292px;
+    background-color: #1e4d9e00;
+    width: 250px;
+    height: 50px;
+    border: 5px solid #1A6EFF;
+    border-radius: 50px;
+
+}
+
+.header-button:hover {
+    border: 5px solid #1a6eff7f;
+    background-color: #1a6eff10;
+}
+
+/* BRANDS LOGOS====================================================== */
+
+.our-top-brands {
+    color: #1A6EFF;
+    text-align: center;
+    margin: 30px 0px;
+    font-family: 'Segoe UI';
+}
+
+.brands {
+    /* background-color: #4e70ab; */
+    height: 490px;
+    width: 97%;
+    margin: auto;
+}
+
+.brands-column {
+    /* background-color: aqua; */
+    /* border: 2px solid red; */
+    margin: 20px 0px;
+    height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.brand-logo-1 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://logodownload.org/wp-content/uploads/2014/07/puma-logo-0.png);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-1:hover {
+    transform: scale(1.1);
+
+}
+
+.brand-logo-2 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://images.yourstory.com/cs/wordpress/2017/05/Wrogn-01.jpg);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-2:hover {
+    transform: scale(1.1);
+}
+
+.brand-logo-3 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://ift.tt/2yKpThz);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-3:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-4 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://scontent.fbbi1-1.fna.fbcdn.net/v/t39.30808-6/224584292_5874528095954083_4409835296051185285_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=uGlC7cuG-M8AX8Kqhz8&_nc_ht=scontent.fbbi1-1.fna&oh=00_AT_TMsGla3RMD8WHkEvp3OOU9oHcj8___OMKfjh6kx3_5g&oe=62A55DB9);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-4:hover {
+    transform: scale(1.1);
+}
+
+.brand-logo-5 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://www.muraldecal.com/en/img/asfs360-jpg/folder/products-listado-merchanthover/stickers-nike-logo.jpg);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-5:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-6 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://pbs.twimg.com/profile_images/1388043127592783874/WAzTZ94d_400x400.jpg);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-6:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-7 {
+    height: 50%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://seeklogo.com/images/P/peter-england-logo-CAA89E9287-seeklogo.com.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-7:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-8 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://www.truealliance.com.au/wp-content/uploads/2018/08/TRU265_Logo_Lee.jpg);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-8:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-9 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://static.cdnlogo.com/logos/p/62/pepe-jeans.svg);
+    background-size: contain;
+    align-self: center;
+    background-repeat: no-repeat;
+    transition: all 0.2 ease;
+}
+
+.brand-logo-9:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-10 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuPuoqpeNcpslkWQka7ac9bT-znHIRBsunA&usqp=CAU);
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* margin-top: 40px; */
+    transition: all 0.2s ease;
+}
+
+.brand-logo-10:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-11 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://scontent.fbbi1-2.fna.fbcdn.net/v/t1.6435-9/70970725_2648344218560970_148140581749522432_n.jpg?stp=cp0_dst-jpg_e15_p403x403_q65&_nc_cat=109&ccb=1-6&_nc_sid=85a577&_nc_ohc=c-w1555xoSgAX-TFDFo&_nc_ht=scontent.fbbi1-2.fna&oh=00_AT84qsZrdWuKVrpUCsjrdakDS7P1xom4Z4bWI4hqZYeEwQ&oe=62A53DEE);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-11:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-12 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://www.abbeycentreshopping.co.uk/wp-content/uploads/2017/02/Untitled-design-4-500x500.png);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-12:hover {
+    transform: scale(1.1);
+}
+
+.brand-logo-13 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://www.scrapehero.com/store/wp-content/uploads/2021/06/Louis_Philippe_India.png);
+    background-size: cover;
+    transition: all 0.2 ease;
+}
+
+.brand-logo-13:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-14 {
+    height: 70%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(http://www.pngimagesfree.com/LOGO/A/Allen-Solly/Allen-Solly-Logo-PNG-HD.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    transition: all 0.2 ease;
+}
+
+.brand-logo-14:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-15 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://logos-download.com/wp-content/uploads/2016/02/Tommy_Hilfiger_logo_red-700x700.png);
+    background-size: cover;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-15:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-16 {
+    height: 50%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://1000logos.net/wp-content/uploads/2021/06/Wrangler-logo-768x432.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 35px;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-16:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-17 {
+    height: 100%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://static.cdnlogo.com/logos/b/99/benetton.svg);
+    background-size: contain;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-17:hover {
+    transform: scale(1.1);
+    ;
+}
+
+.brand-logo-18 {
+    height: 50%;
+    width: 150px;
+    /* border: 2px solid black; */
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/75/Levi%27s_logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    transition: all 0.2s ease;
+}
+
+.brand-logo-18:hover {
+    transform: scale(1.1);
+    ;
+}
+
+
+/* HAPPY FAMILY SALE================================================= */
+
+
+.second-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mens-blezer {
+    background-image: url(https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/3/25/badf2a5d-ebb6-4b18-97b9-c34b10cddbf01553516913482-1.jpg);
+    height: 400px;
+    width: 350px;
+    background-size: cover;
+    transition: all 0.5s ease;
+}
+
+.mens-blezer:hover {
+    transform: scale(0.95);
+    box-shadow: 5px 5px 10px #1A6EFF;
+}
+
+.womens-kurti {
+    background-image: url(https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17792720/2022/4/7/7296f3fb-8234-4a25-9134-cbdb2c760e4f1649321459215FashionBasketWomenYellowLehengaCholi4.jpg);
+    /* border: 2px solid blue; */
+    height: 400px;
+    width: 350px;
+    background-size: cover;
+    transition: all 0.5s ease;
+}
+
+.womens-kurti:hover {
+    transform: scale(0.95);
+    box-shadow: 5px 5px 10px #1A6EFF;
+}
+
+.kids-frock {
+    background-image: url(https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15643268/2021/9/27/7b2f0edc-8494-4163-9a14-a672c68b0c301632753438659SKYHEIGHTS1.jpg);
+    /* border: 2px solid blue; */
+    height: 400px;
+    width: 350px;
+    background-size: cover;
+    transition: all 0.5s ease;
+}
+
+.kids-frock:hover {
+    transform: scale(0.95);
+    box-shadow: 5px 5px 10px #1A6EFF;
+}
+
+.perfumes {
+    /* background-image: url(); */
+    /* border: 2px solid blue; */
+    height: 400px;
+    width: 350px;
+    /* border: 2px solid red; */
+    display: table-column-group;
+}
+
+.perfumes-one-two {
+    /* border: 2px solid blue; */
+    height: 195px;
+    margin: 0px 0px 5px 0px;
+    display: flex;
+
+}
+
+.perfumes-one {
+    background-image: url(https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4374567/2022/4/29/f057f697-09ff-466a-9319-d63e4b47076e1651215465130-Envy-Women-Vanesa-Eau-De-Parfum-60-ml-9341651215464945-1.jpg);
+    background-size: cover;
+    /* border: 2px solid red; */
+    height: 195px;
+    width: 170px;
+    margin: 0px 5px 0px 0px;
+    transition: all 0.5s ease;
+}
+
+.perfumes-one:hover {
+    transform: scale(0.95);
+    box-shadow: 5px 5px 10px #1A6EFF;
+}
+
+.perfumes-two {
+    background-image: url(https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18060710/2022/4/27/084b7647-6a6a-4c62-8dc8-cc01c9fd0cec1651057672357SILENTSTORMEDPPERFUME100MLForMen1.jpg);
+    background-size: cover;
+    /* border: 2px solid red; */
+    height: 195px;
+    width: 170px;
+    margin: 0px 0px 0px 5px;
+    transition: all 0.5s ease;
+}
+
+.perfumes-two:hover {
+    transform: scale(0.95);
+    box-shadow: 5px 5px 10px #1A6EFF;
+}
+
+.perfumes-three-four {
+    /* border: 2px solid blue; */
+    height: 195px;
+    margin: 10px 0px 0px 0px;
+    display: flex;
+}
+
+.perfumes-three {
+    background-image: url(https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15455764/2021/12/7/a9a93701-0fdc-4b50-b637-53cf992038c31638867010896-Carlton-London-Women-Limited-Edition-Lush-Eau-De-Parfum-100--2.jpg);
+    background-size: cover;
+    /* border: 2px solid red; */
+    height: 195px;
+    width: 170px;
+    margin: 0px 5px 0px 0px;
+    transition: all 0.5s ease;
+}
+
+.perfumes-three:hover {
+    transform: scale(0.95);
+    box-shadow: 5px 5px 10px #1A6EFF;
+}
+
+.perfumes-four {
+    background-image: url(https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2316553/2021/8/16/89da6c9c-db1d-4678-bb54-238fa75e769c1629110120656-SKINN-by-Titan-Women-Celeste-Eau-de-Parfum-20-ml-65016291101-1.jpg);
+    background-size: cover;
+    /* border: 2px solid red; */
+    height: 195px;
+    width: 170px;
+    margin: 0px 0px 0px 5px;
+    transition: all 0.5s ease;
+}
+
+.perfumes-four:hover {
+    transform: scale(0.95);
+    box-shadow: 5px 5px 10px #1A6EFF;
+}
+
+
+
+
+
+/* SPORTS WEAR=============================================== */
+
+
+
+
+
+/* FOOTER COMPONENT======================================================== */
+
+.footer {
+    color: black;
+    height: 665px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.social_icon {
+    margin: 10px;
+}
+
+.footer_link {
+    text-decoration: none;
+    color: black;
+}
+
+
+.products {
+    margin: 20px auto;
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-radius: 5px;
+}
+
+/* MEN, WOMEN, KIDS, ELECTRONICS AND ACCESSORIES CARDS SECTION============================= */
+
+
+.cards {
+    width: 250px;
+    height: 500px;
+    overflow: hidden;
+    padding: 5px;
+    margin: 20px auto;
+    background-color: white;
+}
+
+.product-image {
+    width: 100%;
+    height: 300px;
+    display: block;
+    object-fit: cover;
+    transition: all 0.5s ease;
+}
+
+.product-image:hover {
+    transform: scale(0.95);
+    box-shadow: 5px 5px 10px #1A6EFF;
+}
+
+.product-text {
+    /* border: 2px solid red; */
+    margin-top: 10px;
+}
+
+.add-to-cart-button {
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border: 2px solid blue;
+}
+
+.add-to-cart-button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid blue;
+
+}
+
+
+/* WOMEN PAGE SECTION=========================================================== */
+
+.men-header {
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.breezelife.it/img/sezioni/breezemen_header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.women-header {
+    /* border: 2px solid black; */
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.eventsource.ca/blog/wp-content/uploads/2020/06/white-dress-header.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.kid-header {
+    background-image: url(https://scanmagazine.co.uk/content/uploads/2019/03/Gugguu_8_Eveliina_Mustonen1620.jpg);
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.accessories-header {
+    background-image: url(https://scentglobal.com/wp-content/uploads/2020/11/Header-1170x536-1.jpg);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.electronics-header {
+    background-image: url(https://uk.casestation.com/wp-content/uploads/2018/01/Corporate-Phone-Case-Banner-iPhone.png);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.shoes-header{
+    background-image: url(https://www.fleetnom.com/catalog/view/theme/default/images/pcbanner1.jpg?v=1212111);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* ABOUT US PAGE =============================== */
+
+
+.our-vision-text{
+    width: 50%;
+    height: 400px;
+    padding: 0px 40px;
+}
+
+.our-vision-image{
+    width: 50%;
+    height: 550px;
+    background-image: url(https://ditindia.com/wp-content/uploads/2020/02/ECommerce-Development.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.our-approach-text{
+    width: 50%;
+    height: 400px;
+    padding: 0px 40px ;
+}
+
+.our-approach-image{
+    width: 50%;
+    height: 550px;
+    background-image: url(https://cdncloudcart.com/storage/delivery-001.svg?1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.our-process-text{
+    width: 50%;
+    height: 400px;
+    padding: 0px 40px ;
+}
+
+.our-process-image{
+    width: 50%;
+    height: 500px;
+    background-image: url(https://www.protranslate.net/blog/wp-content/uploads/2017/02/ecommerce.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.puma-header {
+    width: 100%;
+    height: 800px;
+    background-image: url(https://leroytremblot.com/wp-content/uploads/2019/04/Projet_1_france_le_13_by_Puma_marseille_new_levels_sport_rap-1-1700x962.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.allen-solly-header {
+    width: 100%;
+    height: 500px;
+    background-image: url(https://i.pinimg.com/originals/9f/6f/08/9f6f08d9ca171e43ea8412ea4d67fa69.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.benetton-header {
+    width: 100%;
+    height: 400px;
+    background-image: url(https://www.designeroutletwarszawa.pl/fileadmin/user_upload/benetton_header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.calvin-klein-header {
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.peerless-clothing.com/wp-content/uploads/2021/03/Calvin-Klein-Brand-Page.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hrx-header {
+    width: 100%;
+    height: 700px;
+    background-image: url(http://stylegods.com/wp-content/uploads/2016/10/20141222-145305-hrx.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jackandjones-header {
+    width: 100%;
+    height: 350px;
+    background-image: url(https://resources.mandmdirect.com/assets/blog/article/2019/09_September/190905/jack-and-jones-1.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lee-header {
+    width: 100%;
+    height: 600px;
+    background-image: url(https://ak.picdn.net/shutterstock/videos/10810601/thumb/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.levis-header {
+    width: 100%;
+    height: 800px;
+    background-image: url(https://corporate.target.com/_media/TargetCorp/news/2022/03/levis%20at%20target%20expansion/LEVIS_ABV_Header-FINAL.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.LouisPhilippe-header {
+    width: 100%;
+    height: 450px;
+    background-image: url(https://m.media-amazon.com/images/S/aplus-media/vc/62112c2c-8977-4051-8fd2-3511dfc8eed5.__CR0,0,970,300_PT0_SX970_V1___.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nike-header {
+    width: 100%;
+    height: 500px;
+    background-image: url(https://allgoodtales.com/wp-content/uploads/2018/10/Nike-Header-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.one8-header {
+    width: 100%;
+    height: 700px;
+    background-image: url(https://uploads-ssl.webflow.com/622a05cb8729c91e4b9ca346/6265a56bd7c509f7ec060368_Header%20Image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.PepeJeans-header {
+    width: 100%;
+    height: 500px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/56edfcff0442625503d238bc/1552166338836-GUXBIZHE3TCHZHHMK5SV/METAL_PepeJeans_Work_Post_Header_5x1-8_alvaro_v1.jpg?format=2500w);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.PeterEngland-header {
+    width: 100%;
+    height: 500px;
+    background-image: url(https://m.media-amazon.com/images/S/aplus-media/sota/90d0ff1c-fa84-4525-8919-6a1115e90696._SR970,300_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.TommyHilfiger-header {
+    width: 100%;
+    height: 450px;
+    background-image: url(https://www.hsamuel.co.uk/content-root/brands/TommyHilfiger.cdo/images/202203091400/TOMMY_HILFIGER_SS22_BRAND_PAGE_HEADER_1300X430.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.USPOLO-header {
+    width: 100%;
+    height: 700px;
+    background-image: url(https://planetexpress.com/wp-content/uploads/2018/05/u.s.polo_.assn_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Wrangler-header {
+    width: 100%;
+    height: 1000px;
+    background-image: url(https://previews.123rf.com/images/sergeigonin/sergeigonin1908/sergeigonin190800005/136346033-krasnojarsk-russland-30-juli-2019-jeans-wrangler-etiketten-nahaufnahme-produktaufnahme.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrogn-header {
+    width: 100%;
+    height: 800px;
+    background-image: url(https://1.bp.blogspot.com/-lSc7w-xetqo/VwdWpQv3lII/AAAAAAAAVZ4/UnAGPVoUUYQQCuZ8tja2mBj0dI_V88n4g/w1200-h630-p-k-no-nu/V.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
